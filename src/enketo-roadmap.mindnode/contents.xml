@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>7934CBC2-B72F-47E3-AE3B-AC6085B1962F</string>
+				<string>904E3397-6734-4091-8169-6DB63CE1E4AE</string>
 				<key>startArrow</key>
 				<integer>2</integer>
 				<key>startNodeID</key>
-				<string>EFCE558B-FB2B-4B71-B9FA-2EDF6849A2C5</string>
+				<string>DBDBE255-C85D-450E-A0EF-9CE716A9295B</string>
 				<key>strokeColor</key>
 				<string>{0.086, 0.482, 0.592, 1.000}</string>
 				<key>strokeStyle</key>
@@ -36,11 +36,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>BEAC22ED-4172-44A3-AC10-2D446A115CA4</string>
+				<string>2925B4A6-7A94-4D7F-93AF-74736DFC978D</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>AB09620C-16A4-49D3-B85C-382EB95ED767</string>
+				<string>B6A6B150-4A25-4BB1-B0B5-004649ACE834</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -69,7 +69,7 @@
 				<key>location</key>
 				<string>{-657.87136451480546, -233.69684231887936}</string>
 				<key>nodeID</key>
-				<string>EFCE558B-FB2B-4B71-B9FA-2EDF6849A2C5</string>
+				<string>DBDBE255-C85D-450E-A0EF-9CE716A9295B</string>
 				<key>strokeColor</key>
 				<string>{0.086, 0.482, 0.592, 1.000}</string>
 				<key>strokeStyle</key>
@@ -92,7 +92,7 @@
 						<key>location</key>
 						<string>{-239.1140484796847, -110.19622944460741}</string>
 						<key>nodeID</key>
-						<string>4E6033C9-15BB-4D49-A61C-66008FD82DCF</string>
+						<string>D58B9DAF-A06F-4355-AC59-CF269BAC567F</string>
 						<key>strokeColor</key>
 						<string>{0.689, 0.215, 0.952, 1.000}</string>
 						<key>strokeStyle</key>
@@ -115,7 +115,7 @@
 								<key>location</key>
 								<string>{80.30240828155911, -81.610233807306258}</string>
 								<key>nodeID</key>
-								<string>66A0738D-87E3-4D1D-BE27-1C5CA25B355B</string>
+								<string>A3372C62-4361-44D1-9FA0-CE545B2B670C</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -133,7 +133,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -156,7 +156,7 @@
 								<key>location</key>
 								<string>{129.351197654511, 2.9951347464674427}</string>
 								<key>nodeID</key>
-								<string>16B0D9E6-F443-4B3F-AD6D-09283B286DD9</string>
+								<string>77E2FFB3-8AC7-4BF5-8EA5-E24547F963F5</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -174,7 +174,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -197,7 +197,7 @@
 								<key>location</key>
 								<string>{50.877514956710911, -199.73560675752651}</string>
 								<key>nodeID</key>
-								<string>1E3546AC-2A76-4527-9904-D8AC6DDF4A2B</string>
+								<string>856D9BE0-F929-44DA-ADEA-79284F463822</string>
 								<key>strokeColor</key>
 								<string>{0.688, 0.213, 0.951, 1.000}</string>
 								<key>strokeStyle</key>
@@ -215,7 +215,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -238,7 +238,7 @@
 								<key>location</key>
 								<string>{128.28471710756094, -121.44960931717532}</string>
 								<key>nodeID</key>
-								<string>E3646ED0-2C58-44B2-8703-9D11CD2BD62F</string>
+								<string>328D2840-E077-41B8-BD35-64E1F96B85F3</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -256,7 +256,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>0</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -279,7 +279,7 @@
 								<key>location</key>
 								<string>{176.51343322126922, 47.657265626763774}</string>
 								<key>nodeID</key>
-								<string>5CD458B0-EC9E-41D8-9BC4-FDA33BF84166</string>
+								<string>F36EEC7A-1119-4E72-8C23-5FFA79CC9AC1</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -297,10 +297,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red253\green128\blue8;}
-{\*\expandedcolortbl;;\cssrgb\c100000\c57637\c0;}
+{\colortbl;\red255\green255\blue255;\red252\green127\blue8;}
+{\*\expandedcolortbl;;\csgenericrgb\c98824\c49804\c3137;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs36 \cf2 max-pixels}</string>
@@ -320,7 +320,7 @@
 								<key>location</key>
 								<string>{174.92633520170671, 92.473483693425237}</string>
 								<key>nodeID</key>
-								<string>6A705748-F9BA-4CB6-9F0B-686994F01FFA</string>
+								<string>F3C9350E-97F0-49B9-997E-4B4B85DA4CEA</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -338,7 +338,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -361,7 +361,7 @@
 								<key>location</key>
 								<string>{194.03154718596807, 133.05148904589328}</string>
 								<key>nodeID</key>
-								<string>1806D761-3873-4D3E-ACA2-BA578C73FBFE</string>
+								<string>84C2B273-4A03-4D2F-857D-7270EFC5239C</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -379,7 +379,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -402,7 +402,7 @@
 								<key>location</key>
 								<string>{161.12622853765902, 175.62065082415461}</string>
 								<key>nodeID</key>
-								<string>2D464142-F781-42EB-9A38-39F3DAEE6504</string>
+								<string>853D6F32-5FC3-4F5D-AD42-54825EA63AEF</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -420,7 +420,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -443,7 +443,7 @@
 								<key>location</key>
 								<string>{163.05391749226146, -164.38223179357607}</string>
 								<key>nodeID</key>
-								<string>53B9E905-FCA8-4CE1-8756-782E3C75E336</string>
+								<string>BD512E11-A799-4794-8539-997CE286C01A</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -461,7 +461,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -484,7 +484,7 @@
 								<key>location</key>
 								<string>{119.60518311690635, -42.410667246466232}</string>
 								<key>nodeID</key>
-								<string>6131D6BE-ADC4-4EEE-9264-79BB3C3BDF83</string>
+								<string>7C172CC2-458E-47D5-B88F-EEE8FDF38FAC</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -502,7 +502,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -525,7 +525,7 @@
 								<key>location</key>
 								<string>{146.48024147363799, 220.12099015876731}</string>
 								<key>nodeID</key>
-								<string>CC115614-95B9-4699-98C2-3C71DF04E271</string>
+								<string>FC1EC3EB-AE0C-4A88-9575-38114EACCF81</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -543,54 +543,13 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs36 \cf2 bearing widget}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{166.58091493499046, 260.00256608207997}</string>
-								<key>nodeID</key>
-								<string>0D5A98E8-22D4-4D33-A3FD-1470101769E1</string>
-								<key>strokeColor</key>
-								<string>{0.689, 0.215, 0.952, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;training view&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-
-\f0\fs36 \cf2 training view}</string>
 								</dict>
 							</dict>
 						</array>
@@ -603,7 +562,7 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -627,7 +586,7 @@
 						<key>location</key>
 						<string>{-340.59677504457568, -325.43867889001189}</string>
 						<key>nodeID</key>
-						<string>D1D87D85-D5C8-4867-A692-E7845CFADF82</string>
+						<string>67134182-E03E-40BE-B962-16ADF676F4EA</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -650,7 +609,7 @@
 								<key>location</key>
 								<string>{136.76812206173008, -302.66427905733923}</string>
 								<key>nodeID</key>
-								<string>DA68F6BC-8759-4290-A1C7-84A7420AABDE</string>
+								<string>BAE7AAF6-FAAB-45C6-AD50-39B2613E87E6</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -668,7 +627,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -691,7 +650,7 @@
 								<key>location</key>
 								<string>{109.70938648363904, -347.4577518064836}</string>
 								<key>nodeID</key>
-								<string>6FAE80BF-7B01-47AF-9CF4-60E254DB68DB</string>
+								<string>0DBED382-3DE2-4252-A87B-FF4FD3C9B359</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -709,7 +668,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -728,7 +687,7 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -751,7 +710,7 @@
 						<key>location</key>
 						<string>{-555.82078718776108, -335.07941069849812}</string>
 						<key>nodeID</key>
-						<string>8D7A33E1-9654-49E8-BE38-4CB838390FD4</string>
+						<string>A7E3AB81-C361-4C4E-BE2C-07C5049F2B5D</string>
 						<key>strokeColor</key>
 						<string>{0.822, 0.084, 0.348, 1.000}</string>
 						<key>strokeStyle</key>
@@ -774,7 +733,7 @@
 								<key>location</key>
 								<string>{-943.41743641353185, -324.1049580606761}</string>
 								<key>nodeID</key>
-								<string>6E981C14-9518-4F8D-9B11-3BF108CE4B78</string>
+								<string>3CBF0383-62E3-490E-A269-43B83B6DA2A2</string>
 								<key>strokeColor</key>
 								<string>{0.822, 0.084, 0.348, 1.000}</string>
 								<key>strokeStyle</key>
@@ -792,10 +751,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;}
-{\colortbl;\red255\green255\blue255;\red253\green128\blue8;}
-{\*\expandedcolortbl;;\cssrgb\c100000\c57637\c0;}
+{\colortbl;\red255\green255\blue255;\red252\green127\blue8;}
+{\*\expandedcolortbl;;\csgenericrgb\c98824\c49804\c3137;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\b\fs36 \cf2 Hybrid XPath evaluator}</string>
@@ -815,7 +774,7 @@
 								<key>location</key>
 								<string>{-937.48769637100122, -375.25377930051894}</string>
 								<key>nodeID</key>
-								<string>1882C276-C3F1-48E7-B1C7-AC541F3222E7</string>
+								<string>70983A4F-1C6A-4646-9785-1186206F732A</string>
 								<key>strokeColor</key>
 								<string>{0.820, 0.082, 0.349, 1.000}</string>
 								<key>strokeStyle</key>
@@ -833,7 +792,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -852,7 +811,7 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -875,7 +834,7 @@
 						<key>location</key>
 						<string>{-449.11181158113482, 139.7887805304714}</string>
 						<key>nodeID</key>
-						<string>E390D7D6-EDEB-496A-8CEB-08A291EAB9F8</string>
+						<string>A19A7411-329B-47A2-B6ED-B88366261521</string>
 						<key>strokeColor</key>
 						<string>{0.194, 0.734, 0.282, 1.000}</string>
 						<key>strokeStyle</key>
@@ -898,7 +857,7 @@
 								<key>location</key>
 								<string>{-216.49877072499112, 98.997853168316965}</string>
 								<key>nodeID</key>
-								<string>BEAC22ED-4172-44A3-AC10-2D446A115CA4</string>
+								<string>2925B4A6-7A94-4D7F-93AF-74736DFC978D</string>
 								<key>strokeColor</key>
 								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
@@ -916,7 +875,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 HelveticaNeue-Bold;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -941,7 +900,7 @@
 								<key>location</key>
 								<string>{-180.48307571252167, 156.03402765451801}</string>
 								<key>nodeID</key>
-								<string>AB09620C-16A4-49D3-B85C-382EB95ED767</string>
+								<string>B6A6B150-4A25-4BB1-B0B5-004649ACE834</string>
 								<key>strokeColor</key>
 								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
@@ -959,7 +918,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red255\green127\blue0;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c100000\c49804\c0;\csgenericrgb\c35686\c35686\c35686;}
@@ -980,7 +939,7 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -999,7 +958,7 @@
 					<key>shrinkToFitContent</key>
 					<integer>0</integer>
 					<key>text</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;}
 {\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 {\*\expandedcolortbl;;\csgenericrgb\c8235\c47843\c58824;}
@@ -1022,7 +981,7 @@
 				<key>location</key>
 				<string>{-766.19140808836846, -121.96028066242832}</string>
 				<key>nodeID</key>
-				<string>7934CBC2-B72F-47E3-AE3B-AC6085B1962F</string>
+				<string>904E3397-6734-4091-8169-6DB63CE1E4AE</string>
 				<key>strokeColor</key>
 				<string>{0.086, 0.482, 0.592, 1.000}</string>
 				<key>strokeStyle</key>
@@ -1045,7 +1004,7 @@
 						<key>location</key>
 						<string>{-755.91280945038807, 10.827758946893596}</string>
 						<key>nodeID</key>
-						<string>0DF8E077-4579-41E4-84D3-B46EACDC5CE6</string>
+						<string>E8E8AA1A-1308-4574-8BE3-11D48D7D84AA</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1068,7 +1027,7 @@
 								<key>location</key>
 								<string>{-1022.1658507742338, 110.05201057066893}</string>
 								<key>nodeID</key>
-								<string>6D9E2A74-7135-44D6-9CCF-11CEEAC0F60B</string>
+								<string>65B38508-F84F-4A66-ABD2-BACEB175D364</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1086,7 +1045,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -1109,7 +1068,7 @@
 								<key>location</key>
 								<string>{-1021.3906740227005, 153.74429735693923}</string>
 								<key>nodeID</key>
-								<string>3B31CE7B-743D-4687-8EE4-10FFB651E6A0</string>
+								<string>0E54E729-5A7A-4A95-9844-F7E7B1FDBA1B</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1127,7 +1086,7 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -1146,7 +1105,7 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 {\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
@@ -1165,7 +1124,7 @@
 					<key>shrinkToFitContent</key>
 					<integer>0</integer>
 					<key>text</key>
-					<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;}
 {\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 {\*\expandedcolortbl;;\csgenericrgb\c8235\c47843\c58824;}
